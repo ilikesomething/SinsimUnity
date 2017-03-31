@@ -1,0 +1,5 @@
+- Type textarea
+- Type Slider
+- Type simple text
+
+- handle results
